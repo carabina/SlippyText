@@ -36,10 +36,11 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "mkeshnoda" => "anilakkaya58@gmail.com" }
+  s.author             = { "mkeshnoda" => "nil" }
   # Or just: s.author    = "mkeshnoda"
-  # s.authors            = { "mkeshnoda" => "anilakkaya58@gmail.com" }
-  # s.social_media_url   = "http://twitter.com/mkeshnoda"
+  # s.authors            = { "mkeshnoda" => "nil" }
+  # s.social_media_url   = "http://twitter.com/anilswiftdev"
+  #s.social_media_url   = "http://facebook.com/mkeshnoda"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
